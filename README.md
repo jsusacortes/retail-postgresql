@@ -27,4 +27,4 @@ GROUP BY, CASE WHEN, Window Functions, CTEs, NTILE, INNER JOIN, Subqueries
 - Northwest is the most profitable region at **$1,866,995**, followed closely by Northeast at **$1,862,242**
 - Top products vary by region — Sweet Potato Mash leads in both Northeast and Southeast, while Waterproof Hiking Boots top the Northwest
 - **JCB** is the dominant payment method with **4,176** transactions, far ahead of Mastercard (916) and Maestro (660)
--**479** customers spend above the average transaction value of $779
+- **479** customers spend above the average transaction value of $779
