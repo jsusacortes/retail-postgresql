@@ -11,7 +11,7 @@ suppliers — 50 rows
 products — 200 rows
 transactions — 10,000 rows (generated across 10 Mockaroo exports of 1,000 each)
 
-## How to run it C
+## How to run it
 Create a PostgreSQL database, run the table creation scripts in order, generate data with Mockaroo using the schema described, then run the analysis queries.
 
 ## Tools Used 
